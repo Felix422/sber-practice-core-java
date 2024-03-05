@@ -7,7 +7,7 @@ public class task9 {
         Scanner in = new Scanner(System.in);
 
         char hideLet = (char) (Math.random() * 26 + 65);
-        System.out.println(hideLet);
+        //System.out.println(hideLet);
 
         char letter;
         boolean game = true;
