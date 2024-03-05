@@ -5,6 +5,7 @@ public class Phone {
     String model = "iPhone";
     int weight = 20;
 
+
     public Phone(int number, String model, int weight) {
         this.number = number;
         this.model = model;
